@@ -1,1 +1,3 @@
-Assignment 1 (basic physics and collisions) is in scene Assignment1
+Assignment 5 (level design in the Assets/Scenes/Assignment5LevelGeneration)
+Arrows to control the player
+Step onto the prize to win!
