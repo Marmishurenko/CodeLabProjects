@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: bfbc1dd2cf8dd486ab2682ce9e7ca26e
+timeCreated: 1453053562
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 0CucStun_0
+    21300002: 0CucStun_1
+    21300004: 0CucStun_2
+    21300006: 0CucStun_3
+    21300008: 0CucStun_4
+    21300010: 0CucStun_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 0CucStun_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1713
+        width: 671
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 253.5, y: -59}
+        - {x: 252.5, y: -52}
+        - {x: 251.5, y: -49}
+        - {x: 254.5, y: -53}
+        - {x: 269.5, y: -45}
+        - {x: 278.5, y: -20}
+        - {x: 254.5, y: 18}
+        - {x: 243.5, y: 31}
+        - {x: 323.5, y: 70}
+        - {x: 335.5, y: 77}
+        - {x: 335.5, y: 107}
+        - {x: 277.5, y: 108}
+        - {x: 228.5, y: 53}
+        - {x: 228.5, y: 102}
+        - {x: 189.5, y: 145}
+        - {x: 142.5, y: 134}
+        - {x: 101.5, y: 164}
+        - {x: 91.5, y: 165}
+        - {x: 31.5, y: 165}
+        - {x: 21.5, y: 151}
+        - {x: -6.5, y: 111}
+        - {x: -46.5, y: 80}
+        - {x: -29.5, y: 54}
+        - {x: -18.5, y: 54}
+        - {x: -25.5, y: 49}
+        - {x: -120.5, y: 60}
+        - {x: -175.5, y: 80}
+        - {x: -247.5, y: 86}
+        - {x: -285.5, y: 58}
+        - {x: -335.5, y: -22}
+        - {x: -335.5, y: -103}
+        - {x: -317.5, y: -93}
+        - {x: -320.5, y: -58}
+        - {x: -310.5, y: -60}
+        - {x: -308.5, y: -97}
+        - {x: -291.5, y: -96}
+        - {x: -279.5, y: -93}
+        - {x: -274.5, y: -44}
+        - {x: -264.5, y: -79}
+        - {x: -203.5, y: -124}
+        - {x: -102.5, y: -165}
+        - {x: -8.5, y: -165}
+        - {x: 52.5, y: -119}
+        - {x: 150.5, y: -68}
+        - {x: 170.5, y: -50}
+      - - {x: 275.5, y: 165}
+        - {x: 275.5, y: 163}
+        - {x: 277.5, y: 161}
+        - {x: 279.5, y: 161}
+        - {x: 281.5, y: 163}
+        - {x: 281.5, y: 165}
+    - name: 0CucStun_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1995
+        width: 122
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 23}
+        - {x: -49, y: 17}
+        - {x: -58, y: 4}
+        - {x: -61, y: -5}
+        - {x: -61, y: -23}
+        - {x: 61, y: -23}
+        - {x: 61, y: -3}
+        - {x: 9, y: 23}
+    - name: 0CucStun_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1374
+        width: 671
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: -46}
+        - {x: 225.5, y: -56}
+        - {x: 266.5, y: -53}
+        - {x: 280.5, y: -26}
+        - {x: 254.5, y: 21}
+        - {x: 234.5, y: 37}
+        - {x: 226.5, y: 34}
+        - {x: 188.5, y: -26}
+        - {x: 199.5, y: 8}
+        - {x: 224.5, y: 44}
+        - {x: 286.5, y: 52}
+        - {x: 328.5, y: 66}
+        - {x: 335.5, y: 81}
+        - {x: 335.5, y: 101}
+        - {x: 280.5, y: 118}
+        - {x: 234.5, y: 102}
+        - {x: 211.5, y: 123}
+        - {x: 197.5, y: 132}
+        - {x: 144.5, y: 134}
+        - {x: 108.5, y: 160}
+        - {x: 89.5, y: 164}
+        - {x: 28.5, y: 164}
+        - {x: 9.5, y: 131}
+        - {x: -36.5, y: 86}
+        - {x: -35.5, y: 63}
+        - {x: -53.5, y: 49}
+        - {x: -157.5, y: 72}
+        - {x: -175.5, y: 85}
+        - {x: -246.5, y: 85}
+        - {x: -270.5, y: 77}
+        - {x: -335.5, y: -37}
+        - {x: -335.5, y: -89}
+        - {x: -334.5, y: -99}
+        - {x: -317.5, y: -92}
+        - {x: -320.5, y: -55}
+        - {x: -312.5, y: -59}
+        - {x: -307.5, y: -99}
+        - {x: -278.5, y: -93}
+        - {x: -277.5, y: -46}
+        - {x: -263.5, y: -74}
+        - {x: -217.5, y: -115}
+        - {x: -187.5, y: -126}
+        - {x: -91.5, y: -162}
+        - {x: -83.5, y: -164}
+        - {x: -14.5, y: -164}
+        - {x: 36.5, y: -132}
+        - {x: 64.5, y: -113}
+        - {x: 157.5, y: -67}
+    - name: 0CucStun_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1026
+        width: 671
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -152}
+        - {x: -10.5, y: -154}
+        - {x: -4.5, y: -154}
+        - {x: -4.5, y: -152}
+        - {x: -6.5, y: -150}
+        - {x: -9.5, y: -150}
+      - - {x: 268.5, y: 27}
+        - {x: 224.5, y: 61}
+        - {x: 217.5, y: 64}
+        - {x: 214.5, y: 64}
+        - {x: 211.5, y: 60}
+        - {x: 210.5, y: 54}
+        - {x: 210.5, y: 61}
+        - {x: 214.5, y: 66}
+        - {x: 216.5, y: 65}
+        - {x: 219.5, y: 68}
+        - {x: 219.5, y: 67}
+        - {x: 220.5, y: 64}
+        - {x: 271.5, y: 63}
+        - {x: 335.5, y: 92}
+        - {x: 335.5, y: 119}
+        - {x: 333.5, y: 124}
+        - {x: 276.5, y: 127}
+        - {x: 198.5, y: 151}
+        - {x: 159.5, y: 154}
+        - {x: 119.5, y: 154}
+        - {x: 104.5, y: 133}
+        - {x: 43.5, y: 154}
+        - {x: 2.5, y: 154}
+        - {x: -38.5, y: 106}
+        - {x: -35.5, y: 95}
+        - {x: -29.5, y: 93}
+        - {x: -28.5, y: 92}
+        - {x: -85.5, y: 69}
+        - {x: -176.5, y: 101}
+        - {x: -225.5, y: 102}
+        - {x: -239.5, y: 102}
+        - {x: -245.5, y: 101}
+        - {x: -266.5, y: 90}
+        - {x: -281.5, y: 75}
+        - {x: -335.5, y: -18}
+        - {x: -335.5, y: -69}
+        - {x: -334.5, y: -80}
+        - {x: -317.5, y: -74}
+        - {x: -283.5, y: -88}
+        - {x: -263.5, y: -66}
+        - {x: -219.5, y: -100}
+        - {x: -140.5, y: -121}
+        - {x: -96.5, y: -148}
+        - {x: -15.5, y: -148}
+        - {x: 184.5, y: -31}
+        - {x: 251.5, y: -38}
+        - {x: 280.5, y: -22}
+    - name: 0CucStun_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1328
+        width: 117
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 17}
+        - {x: -53.5, y: 15}
+        - {x: -58.5, y: 3}
+        - {x: -58.5, y: -10}
+        - {x: -48.5, y: -11}
+        - {x: 27.5, y: -17}
+        - {x: 58.5, y: -17}
+        - {x: 58.5, y: -3}
+        - {x: 14.5, y: 17}
+    - name: 0CucStun_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 599
+        width: 671
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 261.5, y: -57}
+        - {x: 275.5, y: -34}
+        - {x: 272.5, y: -14}
+        - {x: 263.5, y: 7}
+        - {x: 226.5, y: 46}
+        - {x: 219.5, y: 41}
+        - {x: 201.5, y: -21}
+        - {x: 193.5, y: -10}
+        - {x: 213.5, y: 45}
+        - {x: 228.5, y: 46}
+        - {x: 320.5, y: 56}
+        - {x: 335.5, y: 80}
+        - {x: 335.5, y: 104}
+        - {x: 325.5, y: 107}
+        - {x: 235.5, y: 112}
+        - {x: 187.5, y: 136}
+        - {x: 143.5, y: 134}
+        - {x: 108.5, y: 160}
+        - {x: 88.5, y: 164}
+        - {x: 34.5, y: 164}
+        - {x: 26.5, y: 156}
+        - {x: 6.5, y: 113}
+        - {x: -42.5, y: 92}
+        - {x: -33.5, y: 53}
+        - {x: -120.5, y: 61}
+        - {x: -175.5, y: 81}
+        - {x: -247.5, y: 87}
+        - {x: -285.5, y: 59}
+        - {x: -333.5, y: -32}
+        - {x: -335.5, y: -39}
+        - {x: -335.5, y: -86}
+        - {x: -334.5, y: -97}
+        - {x: -317.5, y: -92}
+        - {x: -320.5, y: -57}
+        - {x: -289.5, y: -2}
+        - {x: -310.5, y: -59}
+        - {x: -308.5, y: -96}
+        - {x: -291.5, y: -95}
+        - {x: -279.5, y: -92}
+        - {x: -274.5, y: -43}
+        - {x: -264.5, y: -78}
+        - {x: -203.5, y: -123}
+        - {x: -149.5, y: -130}
+        - {x: -98.5, y: -164}
+        - {x: -7.5, y: -164}
+        - {x: 90.5, y: -99}
+        - {x: 149.5, y: -67}
+        - {x: 194.5, y: -55}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
