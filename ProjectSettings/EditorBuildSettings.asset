@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/PlayScene.unity
-    guid: f84f59d8455d8408ea497b73d7f96c53
+    path: Assets/Scenes/Assignment5LevelGeneration.unity
+    guid: cd0c6c462d16d4cbdb2a7f9681aadb58
   - enabled: 1
-    path: Assets/GameOverScene.unity
-    guid: 685605eabddd14a39bc44dbfca9892f1
+    path: Assets/Scenes/YouWon.unity
+    guid: 0b164838ec83c41268d7093ce8c5932b
   - enabled: 1
-    path: Assets/GameOverBrocolliScene.unity
-    guid: 5311e4867f5d64ce8b6cccb382cd379b
+    path: Assets/Scenes/YouLost.unity
+    guid: 28a4209ff9c7d48aba2a8f395af3d747

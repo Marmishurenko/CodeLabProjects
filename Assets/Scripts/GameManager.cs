@@ -75,5 +75,12 @@ public class GameManager : MonoBehaviour {
 		
 	}
 
+	void OnTriggerEnter2D (BoxCollider2D col){
+		if (col.CompareTag ("player")) {
+			Destroy (gameObject);
+		}
+		
+	}
+
 
 }
