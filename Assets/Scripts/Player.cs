@@ -13,10 +13,16 @@ public class Player : MonoBehaviour {
 	bool facingRight = false;
 	Transform transform;
 
+	public string[] sceneNames;
+	int curSceneIndex = 0;
 
 	public float moveSpeed = 10f;
 
 	Rigidbody2D rb;
+
+    public delegate void PlayerEvent();
+    public PlayerEvent onCucumberCollide;
+    public PlayerEvent onPrizeCollide;
 
 	// Use this for initialization
 	void Start () {
@@ -68,15 +74,35 @@ public class Player : MonoBehaviour {
 	void OnTriggerEnter2D (Collider2D other){
 		if (other.gameObject.tag =="prize") {
 			Destroy (other.gameObject);
-			SceneManager.LoadScene ("YouWon");
-
-			if (other.gameObject.tag == "cuc") {
-				//Destroy (gameObject);
-				SceneManager.LoadScene ("YouLost");
-			}
-
+			// todo: Play animation
+			float animationLength = 0.2f;
+            StartCoroutine (DelayEvent ("prize", animationLength));
 		}
 
+        if (other.gameObject.tag == "cuc")
+        {
+			// todo: Play animation
+			float animationLength = 0.2f;
+            StartCoroutine (DelayEvent ("cuc", animationLength));
+        }
+    }
 
-}
+	IEnumerator DelayEvent(string tagName, float delay){
+		yield return new WaitForSeconds (delay);
+        switch(tagName){
+            case "prize":{
+                    if (onPrizeCollide!= null)
+                        onPrizeCollide();
+                    break;
+                }
+
+            case "cuc":{
+                    if (onCucumberCollide != null)
+                        onCucumberCollide();
+                    break;    
+                }
+
+        }
+	}
+
 }
